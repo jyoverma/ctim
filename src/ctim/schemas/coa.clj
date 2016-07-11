@@ -40,6 +40,7 @@
      ;; Not provided: handling
      ;; Not provided: parameter_observables ;; Technical params using the CybOX language
      ;; Not provided: structured_COA ;; actionable structured representation for automation
+     ;; OpenC2 message goes here
      })))
 
 (s/defschema NewCOA
